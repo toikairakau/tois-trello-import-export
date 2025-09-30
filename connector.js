@@ -11,7 +11,7 @@ TrelloPowerUp.initialize({
       callback: function(t) {
         return t.modal({
           title: 'Import/Export Cards',
-          url: 'https://toikairakau.github.io/trello-import-export/import-export.html',
+          url: 'https://toikairakau.github.io/tois-trello-import-export/import-export.html',
           height: 700,
           fullscreen: false
         });
