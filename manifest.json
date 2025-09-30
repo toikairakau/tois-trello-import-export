@@ -1,0 +1,17 @@
+{
+  "name": "Card Import/Export",
+  "details": "Import and export cards to Excel and CSV files",
+  "icon": {
+    "url": "https://cdn-icons-png.flaticon.com/512/2991/2991112.png"
+  },
+  "author": "Toi Iti",
+  "capabilities": [
+    "board-buttons"
+  ],
+  "connectorUrl": "https://toikairakau.github.io/trello-import-export/connector.js",
+  "tags": [
+    "productivity",
+    "reporting",
+    "data-management"
+  ]
+}
